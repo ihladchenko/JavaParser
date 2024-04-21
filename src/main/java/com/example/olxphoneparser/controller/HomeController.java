@@ -1,4 +1,4 @@
-package com.example.olxphoneparser;
+package com.example.olxphoneparser.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
